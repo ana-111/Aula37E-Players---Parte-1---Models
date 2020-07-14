@@ -37,6 +37,7 @@ namespace Aula37E_Players___Parte_1___Models.Models
             RewriteCSV(PATH, linhas);
         }
 
+        ///le todas as linhas do csv
         public List<Equipe> ReadAll()
         {
             List<Equipe> equipes = new List<Equipe>();

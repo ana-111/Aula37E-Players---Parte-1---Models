@@ -20521,6 +20521,11 @@
   "RootNamespace": "Aula37E_Players___Parte_1___Models",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Pichau\\Documents\\Aula37E-Players - Parte 1 - Models\\Views\\Noticias\\Index.cshtml",
+      "TargetPath": "Views\\Noticias\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Pichau\\Documents\\Aula37E-Players - Parte 1 - Models\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -20553,6 +20558,11 @@
     {
       "FilePath": "c:\\Users\\Pichau\\Documents\\Aula37E-Players - Parte 1 - Models\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Pichau\\Documents\\Aula37E-Players - Parte 1 - Models\\Views\\Equipe\\Index.cshtml",
+      "TargetPath": "Views\\Equipe\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
