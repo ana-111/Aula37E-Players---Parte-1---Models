@@ -20541,11 +20541,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Documents\\Aula37E-Players - Parte 1 - Models\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\Pichau\\Documents\\Aula37E-Players - Parte 1 - Models\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
